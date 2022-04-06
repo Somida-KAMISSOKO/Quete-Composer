@@ -1,0 +1,16 @@
+{
+    "name": "somida/composer",
+    "description": "projet quete composer",
+    "autoload": {
+        "psr-4": {
+            "Somida\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Somida-KAMISSOKO",
+            "email": "somidak@hotmail.fr"
+        }
+    ],
+    "require": {}
+}
